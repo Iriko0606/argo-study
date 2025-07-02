@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/nakagawa1022/argocd.git
+    repoURL: https://github.com/Iriko0606/argo-study.git
     targetRevision: HEAD
     path: manifests/hello-world-go
   destination:
