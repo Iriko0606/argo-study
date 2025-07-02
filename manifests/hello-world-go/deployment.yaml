@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: hello-world-go
-          image: ghcr.io/nakagawa1022/hello-world-go:latest
+          image: ghcr.io/nakagawa1022/hello-world-go:1.0.0
           ports:
             - containerPort: 90
 
